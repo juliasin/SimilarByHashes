@@ -1,4 +1,6 @@
-﻿using System;
+//Clustering images with drawing dendrogram using hierarchical method
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
